@@ -1,1 +1,1 @@
-# IoT Development with Thingworkx
+# IoT Development with Thingworx
