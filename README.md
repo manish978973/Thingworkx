@@ -4,4 +4,4 @@
   
  <Image src="Images/Thingworx_Thing_Properties.JPG" class="center" style="width:50%">
   
-#Hello frpm
+#Hello frpm locally changed
